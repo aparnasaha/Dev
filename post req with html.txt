@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>form method="post attribute</h1>
+<form action="https://jsonplaceholder.typicode.com/posts" method ="post">
+<label for ="foo">title:</label>
+<input type="text" id="foo" title="foo">
+<label for ="bar">body:</label>
+<input type="text" id="bar" body="bar">
+<label for ="1">userid:</label>
+<input type="number" id="1"title="1">
+</form>
+</body>
+</html>
