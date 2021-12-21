@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .dropbtn:focus{
+    background:#0070B4;
+    }
+    .dropbtn:hover{
+      background:#7DB5DB;
+    }
+    .dropbtn:active{
+    background: #001024;
+    }
+    .dropbtn:disabled{
+    background: #D8E9F4;
+    }
+  </style>
+</head>
+
+
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+  <a href="#">Choosen option</a>
+  <a href="#">Another option</a>
+  <a href="#">Health (lowest first)</a>
+</div>
+</div>
+</html>
